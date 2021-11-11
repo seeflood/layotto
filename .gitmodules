@@ -1,8 +1,8 @@
 [submodule "sdk/dotnent-sdk"]
 	path = sdk/dotnent-sdk
 	url = https://github.com/layotto/dotnet-sdk
-    branch = master
+    branch = main
 [submodule "sdk/js-sdk"]
 	path = sdk/js-sdk
 	url = https://github.com/layotto/js-sdk
-    branch = master
+    branch = main
