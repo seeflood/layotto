@@ -48,6 +48,7 @@ func init() {
 }
 
 func main() {
+	// test
 	// parse command arguments
 	flag.Parse()
 	if storeName == "" {
